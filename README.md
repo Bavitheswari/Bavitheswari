@@ -213,14 +213,21 @@ Practising coding problems to improve logical thinking and programming skills.
 </div>
 
 ---
+---
 
 ## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Bavitheswari/Bavitheswari/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img
+  src="https://raw.githubusercontent.com/Bavitheswari/Bavitheswari/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+  width="100%"
+/>
 
 </div>
+
+---
 
 ---
 
