@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Java+%7C+JavaScript+%7C+SQL;Exploring+Software+Development;Building+Projects+and+Learning+Technologies;Always+Improving+My+Skills" />
 
-<br><br>
+<br>
 
 <a href="#-about-me">About</a> •
 <a href="#-technical-skills">Skills</a> •
