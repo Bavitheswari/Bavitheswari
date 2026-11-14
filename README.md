@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Bavitheswari!
+# 👋 Hi, I'm Bavitheswari Mathavakumar!
 
 ### 💻 Software Developer | Exploring Technology & Building Projects
 
